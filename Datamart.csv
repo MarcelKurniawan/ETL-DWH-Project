@@ -1,0 +1,18 @@
+order_id,order_date,user_id,user_name,payment_type,shipper_name,voucher_name,product_category,region,order_price,order_discount,order_total,rating_level,rating_status
+1110004,2022-03-06,100102,Eva Susanti,Wallet,JNE Express,None,Electronic,"Jl. Timur Raya No. 13, Kramat Jaya, Jakarta Timur, DKI Jakarta",1800000,0,1800000,5,High Impact
+1110006,2022-05-09,100103,Dana Pradana,Debit,Sicepat Express,None,Fashion,"Jl. Pahlawan, Surabaya, Jawa Timur",500000,30000,470000,4,Medium High Impact
+1110012,2022-07-30,100110,Anita Friska,Debit,JNE Express,Body Soap Promo,Fashion,"Jl. Tembung Raya, Kota Medan Timur, Sumatera Utara",250000,15000,235000,4,Medium High Impact
+1110006,2022-05-09,100103,Dana Pradana,Debit,Sicepat Express,None,Electronic,"Jl. Pahlawan, Surabaya, Jawa Timur",4000000,1000000,3000000,4,Medium High Impact
+1110005,2022-04-28,100105,Dodo Andriano,Debit,Sicepat Express,New User,Electronic,"Jl. Pakuan Selatan No. 177, Magelang, Jawa Tengah",4000000,1000000,3000000,1,Very Low Impact
+1110009,2022-06-23,100103,Dana Pradana,Credit,Lazada Express,None,Electronic,"Jl. Pahlawan, Surabaya, Jawa Timur",2000000,0,2000000,5,High Impact
+1110001,2022-01-20,100101,Budi Gunawan,Debit,JNE Express,New User,Fashion,"Jl. Pondok Indah No.1, Kecamatan Pondok Labu, Bandung Raya, Jawa Barat",250000,15000,235000,3,Medium Impact
+1110011,2022-07-21,100110,Anita Friska,Wallet,Sicepat Express,None,Fashion,"Jl. Tembung Raya, Kota Medan Timur, Sumatera Utara",550000,15000,535000,5,High Impact
+1110002,2022-01-29,100102,Eva Susanti,Debit,JNE Express,New User,Fashion,"Jl. Timur Raya No. 13, Kramat Jaya, Jakarta Timur, DKI Jakarta",500000,30000,470000,3,Medium Impact
+1110007,2022-05-21,100106,Caca Kumala,Debit,JNE Express,None,Fashion,"Jl. Bunga Raya, Kota Tanggerang, Banten",250000,15000,235000,5,High Impact
+1110007,2022-05-21,100106,Caca Kumala,Debit,JNE Express,None,Health & Beauty,"Jl. Bunga Raya, Kota Tanggerang, Banten",620000,10000,610000,5,High Impact
+1110004,2022-03-06,100102,Eva Susanti,Wallet,JNE Express,None,Fashion,"Jl. Timur Raya No. 13, Kramat Jaya, Jakarta Timur, DKI Jakarta",1350000,45000,1305000,5,High Impact
+1110012,2022-07-30,100110,Anita Friska,Debit,JNE Express,Body Soap Promo,Health & Beauty,"Jl. Tembung Raya, Kota Medan Timur, Sumatera Utara",240000,20000,220000,4,Medium High Impact
+1110002,2022-01-29,100102,Eva Susanti,Debit,JNE Express,New User,Health & Beauty,"Jl. Timur Raya No. 13, Kramat Jaya, Jakarta Timur, DKI Jakarta",120000,10000,110000,3,Medium Impact
+1110003,2022-02-13,100103,Dana Pradana,Credit,JNE Express,New User,Electronic,"Jl. Pahlawan, Surabaya, Jawa Timur",6000000,1000000,5000000,1,Very Low Impact
+1110008,2022-06-02,100108,Fanny Utami,Credit,Sicepat Express,New User,Electronic,"Jl. Kilometer Panjang No. 210, Jakarta Utara, DKI Jakarta",2000000,0,2000000,4,Medium High Impact
+1110010,2022-07-01,100102,Eva Susanti,Credit,Lazada Express,None,Fashion,"Jl. Timur Raya No. 13, Kramat Jaya, Jakarta Timur, DKI Jakarta",1050000,45000,1005000,2,Low Impact
